@@ -4,7 +4,6 @@
 [![Forks][forks-badge]][forks-url]
 [![Stargazers][stars-badge]][stars-url]
 [![Issues][issues-badge]][issues-url]
-[![License][license-badge]][license-url]
 [![Ko-fi][kofi-badge]][kofi-url]
 
 <!-- PROJECT LOGO -->
@@ -158,8 +157,6 @@ Donations: [Ko-fi](https://ko-fi.com/cattobaby)
 [stars-url]: https://github.com/thepokervault/thepokervault/stargazers
 [issues-badge]: https://img.shields.io/github/issues/thepokervault/thepokervault.svg?style=for-the-badge
 [issues-url]: https://github.com/thepokervault/thepokervault/issues
-[license-badge]: https://img.shields.io/github/license/thepokervault/thepokervault.svg?style=for-the-badge
-[license-url]: https://github.com/thepokervault/thepokervault/LICENSE.txt
 [kofi-badge]: https://shields.io/badge/kofi-Buy_a_coffee-ff5f5f?logo=ko-fi&style=for-the-badgeKofi
 [kofi-url]: https://ko-fi.com/cattobaby
 [product-screenshot]: images/screenshot.png
