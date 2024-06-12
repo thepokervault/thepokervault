@@ -1,0 +1,47 @@
+# The Poker Vault Private License
+
+This license applies to The Poker Vault app and all associated files, documentation, and materials (collectively, the "Software").
+
+## 1. License Grant
+
+Subject to the terms and conditions of this license, you are granted a limited, non-exclusive, non-transferable, revocable license to use the Software for personal, non-commercial purposes. All rights not expressly granted to you are reserved by the author.
+
+## 2. Restrictions
+
+You may not:
+- Copy, distribute, or modify the Software.
+- Reverse engineer, decompile, or disassemble the Software.
+- Use the Software for any commercial purposes.
+- Remove or alter any proprietary notices or labels on the Software.
+
+## 3. Ownership
+
+The Software is and shall remain the exclusive property of the author. Nothing in this license grants you any ownership rights in the Software.
+
+## 4. Termination
+
+This license is effective until terminated. Your rights under this license will terminate automatically without notice if you fail to comply with any term(s) of this license. Upon termination, you must cease all use of the Software and destroy all copies, full or partial, of the Software.
+
+## 5. Disclaimer of Warranties
+
+The Software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. The author does not warrant that the Software will be error-free or that it will function without interruption.
+
+## 6. Limitation of Liability
+
+In no event shall the author be liable for any damages arising out of the use or inability to use the Software, even if the author has been advised of the possibility of such damages.
+
+## 7. Governing Law
+
+This license shall be governed by and construed in accordance with the laws of [The Plurinational State of Bolivia], without regard to its conflict of law principles.
+
+## 8. Contact Information
+
+For any questions regarding this license, please contact the author at:
+- Twitter: [@thepokervault_app](https://twitter.com/thepokervault_app)
+- Twitter: [@willman_rds](https://twitter.com/willman_rds)
+- Email: contact@thepokervault.app
+
+By using the Software, you agree to be bound by the terms of this license.
+
+[Willman Ruperto Duran Saldias]
+[2024]
