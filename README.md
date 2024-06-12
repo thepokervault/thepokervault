@@ -18,7 +18,7 @@
     <br />
     <br />
     <br />
-    <a href="https://github.com/thepokervault/thepokervault/builds">View Demo</a>
+    <a href="https://github.com/thepokervault/thepokervault/tree/main/builds">View Demo</a>
     ·
     <a href="https://github.com/thepokervault/thepokervault/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
