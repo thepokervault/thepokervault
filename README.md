@@ -98,9 +98,6 @@ You need an Android phone and internet access.
 
 Use the app to record every move in your poker matches, analyze your game later, and take custom notes on each stage of the game and your opponents.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
