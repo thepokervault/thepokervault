@@ -16,10 +16,9 @@
   <p align="center">
     Capture Your Game, Elevate Your Strategy
     <br />
-    <a href="https://github.com/thepokervault/thepokervault"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/thepokervault/thepokervault">View Demo</a>
+    <a href="https://github.com/thepokervault/thepokervault/builds">View Demo</a>
     ·
     <a href="https://github.com/thepokervault/thepokervault/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
@@ -106,13 +105,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
 - [ ] Add Additional Templates w/ Examples
 - [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
 
 See the [open issues](https://github.com/thepokervault/thepokervault/issues) for a full list of proposed features (and known issues).
 
