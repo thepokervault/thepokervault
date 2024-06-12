@@ -62,7 +62,6 @@ The Poker Vault is an app designed to help poker players study their live games 
 - Sync games to the cloud for review on any device (Pro users only).
 - Pro users can subscribe monthly or receive a lifetime pro license with a minimum $5 donation.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 * [Dart](https://dart.dev)
@@ -74,7 +73,6 @@ Additional tools:
 * [Shared Preferences](https://pub.dev/packages/shared_preferences)
 * [Provider](https://pub.dev/packages/provider)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -91,7 +89,6 @@ You need an Android phone and internet access.
 2. Give permission to install from unknown sources on your phone.
 3. Install the app and start using it.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -100,7 +97,6 @@ Use the app to record every move in your poker matches, analyze your game later,
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -110,7 +106,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 See the [open issues](https://github.com/thepokervault/thepokervault/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -119,14 +114,12 @@ Contributions to The Poker Vault can be made through donations. A minimum donati
 
 [![Ko-fi][kofi-badge]][kofi-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License
 
 Distributed under a private license. No copying, modifying, reverse engineering, or commercial use allowed.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
@@ -137,7 +130,6 @@ Project Link: [https://github.com/thepokervault/thepokervault](https://github.co
 
 Donations: [Ko-fi](https://ko-fi.com/cattobaby)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
