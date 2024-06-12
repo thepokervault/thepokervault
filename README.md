@@ -55,8 +55,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 The Poker Vault is an app designed to help poker players study their live games anytime and improve their strategy by identifying their own weaknesses and those of their opponents.
 
 ### Features
