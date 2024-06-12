@@ -1,11 +1,11 @@
 <a name="readme-top"></a>
 
-[![kofi][kofi-shield]][kofi-url]
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![Contributors][contributors-badge]][contributors-url]
+[![Forks][forks-badge]][forks-url]
+[![Stargazers][stars-badge]][stars-url]
+[![Issues][issues-badge]][issues-url]
+[![License][license-badge]][license-url]
+[![Ko-fi][kofi-badge]][kofi-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -150,16 +150,16 @@ Donations: [Ko-fi](https://ko-fi.com/cattobaby)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/thepokervault/thepokervault.svg?style=for-the-badge
+[contributors-badge]: https://img.shields.io/github/contributors/thepokervault/thepokervault.svg?style=for-the-badge
 [contributors-url]: https://github.com/thepokervault/thepokervault/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/thepokervault/thepokervault.svg?style=for-the-badge
+[forks-badge]: https://img.shields.io/github/forks/thepokervault/thepokervault.svg?style=for-the-badge
 [forks-url]: https://github.com/thepokervault/thepokervault/network/members
-[stars-shield]: https://img.shields.io/github/stars/thepokervault/thepokervault.svg?style=for-the-badge
+[stars-badge]: https://img.shields.io/github/stars/thepokervault/thepokervault.svg?style=for-the-badge
 [stars-url]: https://github.com/thepokervault/thepokervault/stargazers
-[issues-shield]: https://img.shields.io/github/issues/thepokervault/thepokervault.svg?style=for-the-badge
+[issues-badge]: https://img.shields.io/github/issues/thepokervault/thepokervault.svg?style=for-the-badge
 [issues-url]: https://github.com/thepokervault/thepokervault/issues
-[license-shield]: https://img.shields.io/github/license/thepokervault/thepokervault.svg?style=for-the-badge
+[license-badge]: https://img.shields.io/github/license/thepokervault/thepokervault.svg?style=for-the-badge
 [license-url]: https://github.com/thepokervault/thepokervault/LICENSE.txt
-[kofi-shield]: https://shields.io/badge/kofi-Buy_a_coffee-ff5f5f?logo=ko-fi&style=for-the-badgeKofi
+[kofi-badge]: https://shields.io/badge/kofi-Buy_a_coffee-ff5f5f?logo=ko-fi&style=for-the-badgeKofi
 [kofi-url]: https://ko-fi.com/cattobaby
 [product-screenshot]: images/screenshot.png
