@@ -1,8 +1,11 @@
 <a name="readme-top"></a>
 
-[![Stargazers][stars-badge]][stars-url]
-[![Issues][issues-badge]][issues-url]
 [![Ko-fi][kofi-badge]][kofi-url]
+[![Website][website-badge]][website-url]
+[![Email][email-badge]][email-url]
+[![Twitter ThePokerVault][twitter-pokervault-badge]][twitter-pokervault-url]
+[![Twitter WillmanRDS][twitter-willman-badge]][twitter-willman-url]
+[![GitHub][github-badge]][github-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -101,8 +104,10 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
+- [ ] At 50 minimum donations, we will open a Discord server where donors can have a say in the app's features.
+- [ ] At 100 minimum donations, the app will also be available in the App Store.
+- [ ] At 500 minimum donations, we will hire a graphic designer to enhance the app's visuals, with the community voting on the best design.
+- [ ] At 1000 minimum donations, we will organize a $100 free tournament for donors.
 
 See the [open issues](https://github.com/thepokervault/thepokervault/issues) for a full list of proposed features (and known issues).
 
@@ -134,10 +139,15 @@ Donations: [Ko-fi](https://ko-fi.com/cattobaby)
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[stars-badge]: https://img.shields.io/github/stars/thepokervault/thepokervault.svg?style=for-the-badge
-[stars-url]: https://github.com/thepokervault/thepokervault/stargazers
-[issues-badge]: https://img.shields.io/github/issues/thepokervault/thepokervault.svg?style=for-the-badge
-[issues-url]: https://github.com/thepokervault/thepokervault/issues
-[kofi-badge]: https://shields.io/badge/kofi-Buy_a_coffee-ff5f5f?logo=ko-fi&style=for-the-badgeKofi
+[kofi-badge]: https://img.shields.io/badge/Ko_fi-Become_a_Donor-ff5f5f?logo=ko-fi&style=for-the-badge
 [kofi-url]: https://ko-fi.com/cattobaby
-[product-screenshot]: images/screenshot.png
+[website-badge]: https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
+[website-url]: https://thepokervault.app
+[email-badge]: https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[email-url]: mailto:contact@thepokervault.app
+[twitter-pokervault-badge]: https://img.shields.io/twitter/follow/thepokervault_app?style=for-the-badge
+[twitter-pokervault-url]: https://twitter.com/thepokervault_app
+[twitter-willman-badge]: https://img.shields.io/twitter/follow/willman_rds?style=for-the-badge
+[twitter-willman-url]: https://twitter.com/willman_rds
+[github-badge]: https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white
+[github-url]: https://github.com/cattobaby
