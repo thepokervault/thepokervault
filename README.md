@@ -130,14 +130,14 @@ The Poker Vault - [@thepokervault_app](https://twitter.com/thepokervault_app) - 
 
 Project Link: [https://github.com/thepokervault/thepokervault](https://github.com/thepokervault/thepokervault)
 
-Donations: [Ko-fi](https://ko-fi.com/cattobaby)
+Donations: [Ko-fi](https://ko-fi.com/thepokervault)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [kofi-badge]: https://img.shields.io/badge/Ko_fi-Become_a_Donor-ff5f5f?logo=ko-fi&style=for-the-badge
-[kofi-url]: https://ko-fi.com/cattobaby
+[kofi-url]: https://ko-fi.com/thepokervault
 [website-badge]: https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
 [website-url]: https://thepokervault.app
 [email-badge]: https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white
