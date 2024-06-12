@@ -1,11 +1,11 @@
 <a name="readme-top"></a>
 
+[![kofi][kofi-shield]][kofi-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -159,7 +159,7 @@ Donations: [Ko-fi](https://ko-fi.com/cattobaby)
 [issues-shield]: https://img.shields.io/github/issues/thepokervault/thepokervault.svg?style=for-the-badge
 [issues-url]: https://github.com/thepokervault/thepokervault/issues
 [license-shield]: https://img.shields.io/github/license/thepokervault/thepokervault.svg?style=for-the-badge
-[license-url]: https://github.com/thepokervault/thepokervault/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[license-url]: https://github.com/thepokervault/thepokervault/LICENSE.txt
+[kofi-shield]: https://shields.io/badge/kofi-Buy_a_coffee-ff5f5f?logo=ko-fi&style=for-the-badgeKofi
+[kofi-url]: https://ko-fi.com/cattobaby
 [product-screenshot]: images/screenshot.png
