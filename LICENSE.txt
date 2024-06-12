@@ -32,7 +32,7 @@ In no event shall the author be liable for any damages arising out of the use or
 
 ## 7. Governing Law
 
-This license shall be governed by and construed in accordance with the laws of [The Plurinational State of Bolivia], without regard to its conflict of law principles.
+This license shall be governed by and construed in accordance with the laws of The Plurinational State of Bolivia, without regard to its conflict of law principles.
 
 ## 8. Contact Information
 
@@ -43,5 +43,5 @@ For any questions regarding this license, please contact the author at:
 
 By using the Software, you agree to be bound by the terms of this license.
 
-[Willman Ruperto Duran Saldias]
-[2024]
+Willman Ruperto Duran Saldias
+2024
