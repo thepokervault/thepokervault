@@ -1,7 +1,5 @@
 <a name="readme-top"></a>
 
-[![Contributors][contributors-badge]][contributors-url]
-[![Forks][forks-badge]][forks-url]
 [![Stargazers][stars-badge]][stars-url]
 [![Issues][issues-badge]][issues-url]
 [![Ko-fi][kofi-badge]][kofi-url]
@@ -125,7 +123,9 @@ See the [open issues](https://github.com/thepokervault/thepokervault/issues) for
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are not accepted as this is a private repository.
+Contributions to The Poker Vault can be made through donations. A minimum donation of $5 will grant you a lifetime pro license and a voice in the app's future features.
+
+[![Ko-fi][kofi-badge]][kofi-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -149,10 +149,7 @@ Donations: [Ko-fi](https://ko-fi.com/cattobaby)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-badge]: https://img.shields.io/github/contributors/thepokervault/thepokervault.svg?style=for-the-badge
-[contributors-url]: https://github.com/thepokervault/thepokervault/graphs/contributors
-[forks-badge]: https://img.shields.io/github/forks/thepokervault/thepokervault.svg?style=for-the-badge
-[forks-url]: https://github.com/thepokervault/thepokervault/network/members
+
 [stars-badge]: https://img.shields.io/github/stars/thepokervault/thepokervault.svg?style=for-the-badge
 [stars-url]: https://github.com/thepokervault/thepokervault/stargazers
 [issues-badge]: https://img.shields.io/github/issues/thepokervault/thepokervault.svg?style=for-the-badge
